@@ -1,0 +1,5 @@
+// BBC News: http://feeds.bbci.co.uk/news/rss.xml
+// The New York Times - Top Stories: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+// CNN - World News: http://rss.cnn.com/rss/edition_world.rss
+// TechCrunch: http://feeds.feedburner.com/TechCrunch/
+// National Geographic - Latest News: https://www.nationalgeographic.com/latest-stories.rss
