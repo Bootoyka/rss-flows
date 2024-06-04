@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bbd1977-5023-472d-9da5-a3d0ecc3cd07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-rss-reader/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rss_examples.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rssfolw-default-rtdb-export.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hQAM4M7TeW58LsTVU98cUTQKa3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bbd1977-5023-472d-9da5-a3d0ecc3cd07" name="Changes" comment="" />
+      <created>1717515878103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717515878103</updated>
+      <workItem from="1717515882381" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
